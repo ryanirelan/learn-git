@@ -57,7 +57,7 @@
   
   countries = ["canada", "brazil", "spain"]
   cities = ["Houston", "Austin", "Dallas", "San Antonio"]
-
+  states = ["Texas", "North Carolina", "Tennessee"]
 # =================
 # hash
 # =================
