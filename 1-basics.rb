@@ -1,7 +1,7 @@
 ## =================
 # Intro to Ruby
 # =================
-
+  puts "Hello there!"
   puts "Hello World!"
   puts "Hello Houston!!"
   puts "Hello Austin!"
